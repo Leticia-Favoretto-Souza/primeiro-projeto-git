@@ -4,4 +4,4 @@
 
 - **Faculdade:** Fatec Ogari de Castro Pacheco (Itapira)
 - **Curso:** Desenvolvimento de Software Multiplataforma
-- **Aluno:** Letícia Favoretto de Souza
+- **Aluno:** Letícia Favoretto de Souza: https://github.com/Leticia-Favoretto-Souza
